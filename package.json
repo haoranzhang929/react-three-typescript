@@ -1,11 +1,13 @@
 {
-  "name": "react-typescript",
+  "name": "react-three-typescript",
   "version": "0.1.0",
   "private": true,
+  "author": "Haoran Zhang",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "three": "^0.117.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.9.0",
