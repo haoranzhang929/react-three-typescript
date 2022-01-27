@@ -7,7 +7,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "three": "^0.117.1"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.9.0",
